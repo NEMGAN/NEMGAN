@@ -5,7 +5,7 @@ Code release for ICLR paper
 
 Python version: 2.7
 
-Tensoeflow: 1.5.0
+Tensorflow: 1.5.0
 
 Keras: >= 2.0
 
